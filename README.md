@@ -117,4 +117,5 @@ Compeleted!
 ## 12. Setup <a name="setup"><a/>
 > [!Tip]
 > For setup follow steps [here](https://github.com/soorisani/Borehole_Rock_Density_Distribution/commit/acacf0a6650e39526e8c05e52b96fc9c01854176)
-Compeleted.
+
+
