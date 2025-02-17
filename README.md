@@ -97,7 +97,7 @@ Mapped geological structures using spatial data.
 This project demonstrates how Python can be leveraged for geological data analysis and visualization. Future improvements may include integrating machine learning to classify rock types based on additional geochemical and geophysical parameters.
 
 ## 8. Sample of Visualization/Result  <a name ="sample"></a>
-For viewing a sample of result please check [here]()
+For viewing a sample of result please check [here](https://github.com/soorisani/Borehole_Rock_Density_Distribution/commit/acacf0a6650e39526e8c05e52b96fc9c01854176)
 
 ## 9. Portfolio Contribution
 ### 9.1 Skills Demonstrated: 
@@ -116,6 +116,6 @@ Resource exploration, geotechnical engineering, geological mapping.
 Compeleted!
 ## 12. Setup <a name="setup"><a/>
 > [!Tip]
-> For setup follow steps [here](https://github.com/soorisani/Borehole_Rock_Density_Distribution/commit/acacf0a6650e39526e8c05e52b96fc9c01854176)
+> For setup follow steps [here](https://github.com/soorisani/Borehole_Rock_Density_Distribution/blob/main/Set%20Up.md) 
 
 
